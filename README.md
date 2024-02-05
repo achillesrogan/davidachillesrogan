@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidachillesrogan
 - 👀 I’m interested in ... Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning ... Machine Learning
+- 🌱 I’m currently learning ... Artificial Intelligence, Deep Learning , NLP's , and Cyber Security principles.
 - 💞️ I’m looking to collaborate on ... not sure
 - 📫 How to reach me ... dm probably
 
